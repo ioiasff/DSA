@@ -253,8 +253,8 @@ G P
                S P A M
 
 Our channels
-@githubch [hack]
-
+@githubch [persian]
+@githuben [english]
 
 ;-) 
 Thanks
