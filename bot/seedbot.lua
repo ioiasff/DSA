@@ -232,32 +232,32 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {152485254,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[GP BOT V1
+G P B O T
 
-https://github.com/SEEDTEAM/TeleSeed
+ANTI SPAM !
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+A
+R
+A
+S
+H
+-BAHAREH
+---------
+G P
+   B O T
+        A N T I
+               S P A M
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@githubch [hack]
 
-Our website 
-http://teleseed.seedteam.org/
+
+;-) 
+Thanks
 ]],
     help_text_realm = [[
 Realm Commands:
